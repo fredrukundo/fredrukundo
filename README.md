@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fredrukundo
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on front-end development
+- 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me, e-mail:dukfred9@gmail.com
 
 my name is Rukundo fred and i am a Software developer to say that i love programming is a Big understatement,
