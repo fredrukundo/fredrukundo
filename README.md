@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredrukundo
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning front-end technologies
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me, e-mail:dukfred9@gmail.com
 
