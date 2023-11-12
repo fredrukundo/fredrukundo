@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @fredrukundo
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning front-end technologies
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m interested in Mobile and software development
+- 🌱 I’m currently working on personal project
+- 💞️ I’m looking to collaborate on both mobile and web projects
 - 📫 How to reach me, e-mail:dukfred9@gmail.com
 
-my name is Rukundo fred and i am a Software developer to say that i love programming is a Big understatement,
-i spend almost every hour building something fun or watching tech talks.
-writing good code and developing high quality projects is my profession.
-Currently i do my Front-end web development with tools like React,HTML,CSS,JavaScript
-if i am doing back-end development my preferred choice is Django and PHP
+Greetings! I'm Fred, a dedicated mobile developer with a strong proficiency in JavaScript and React Native for frontend, complemented by Node.js for robust backend solutions. My expertise extends to ReactJS, ensuring a seamless integration of intuitive user interfaces.
+
+My professional journey includes successful projects in C programming, showcasing versatility in my skill set. Adept at problem-solving, I've tackled numerous algorithmic challenges, contributing to a solid foundation of technical proficiency.
+
+I'm enthusiastic about collaborating on innovative mobile development projects. Let's connect and explore how my skills can contribute to the success of your next venture
