@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @fredrukundo
-- 👀 I’m interested in Mobile and software development
-- 🌱 I’m currently working on personal project
-- 💞️ I’m looking to collaborate on both mobile and web projects
-- 📫 How to reach me, e-mail:dukfred9@gmail.com
+# Hi there! 👋
+I'm a passionate and dedicated student at __1337 Khouribga__, part of the **42 Network**.<br>Currently, I'm honing my skills and knowledge to become a well-rounded professional<br>in the world of technology.
 
-Greetings! I'm Fred, a dedicated mobile developer with a strong proficiency in JavaScript and React Native for frontend, complemented by Node.js for robust backend solutions. My expertise extends to ReactJS, ensuring a seamless integration of intuitive user interfaces.
-
-My professional journey includes successful projects in C programming, showcasing versatility in my skill set. Adept at problem-solving, I've tackled numerous algorithmic challenges, contributing to a solid foundation of technical proficiency.
-
-I'm enthusiastic about collaborating on innovative mobile development projects. Let's connect and explore how my skills can contribute to the success of your next venture
+# 🚀 What I'm Up To
+* 🔍 I'm currently exploring various aspects of software development, with a focus on mobile applications.<br>
+* 📱 Freelancing as a mobile developer, specializing in React Native for cross-platform mobile development and Node.js for server-side applications.<br>
+* 🛠 Working on exciting **42 Projects** to enhance my problem-solving and coding skills.<br>
+# 🌱 My Skills
+* __Mobile Development:__  React Native<br>
+* __Backend Development:__  Node.js<br>
+* __Problem Solving:__  Thanks to the challenges at **42**.<br>
+# 💼 Work Experience
+* __Freelance Mobile Developer__<br>
+    * Developing robust and user-friendly mobile applications using React Native.<br>
+    * Building scalable and efficient server-side applications with Node.js.<br>
+# 🤝 Let's Connect!
+I'm always open to collaboration and learning from others. If you share similar interests<br> or have exciting projects in mind, feel free to reach out. Let's create something<br> amazing together!
