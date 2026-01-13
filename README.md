@@ -1,5 +1,5 @@
 ![Banner](https://github.com/fredrukundo/fredrukundo/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Rukundo fred.</h1>
+<h1 align="center">Hi 👋, I'm Fred Rukundo.</h1>
 <h3 align="center">a passionate and dedicated student at <b>1337 Khouribga</b>, part of the <i>42 Network</i> Currently, I'm honing my skills and knowledge to become a well-rounded professional in the world of technology.</h3>
 <img align = "center" width = "400" src = "https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredrukundo&label=Profile%20views&color=0e75b6&style=flat" alt="fredrukundo" /> </p>
