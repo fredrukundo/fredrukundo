@@ -209,7 +209,7 @@ dukefred9@gmail.com
 
 💼 **LinkedIn**
 
-[Rukundo-fred](https://www.linkedin.com/in/rukundo-fred/?skipRedirect=true)
+[Rukundo-fred](https://www.linkedin.com/in/rukundo-fred/)
 
 
 ---
