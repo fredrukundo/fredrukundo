@@ -180,8 +180,9 @@ Community-driven real estate ecosystem bringing together investors, developers, 
 
 # 🐍 Contribution Snake
 
-
-![snake gif](https://github.com/fredrukundo/fredrukundo/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/fredrukundo/fredrukundo/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 
 
