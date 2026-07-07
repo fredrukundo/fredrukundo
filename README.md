@@ -184,6 +184,7 @@ Community-driven real estate ecosystem bringing together investors, developers, 
 ![snake gif](https://github.com/fredrukundo/fredrukundo/blob/output/github-contribution-grid-snake.gif)
 
 
+
 ---
 
 # 🏆 Current Interests
