@@ -1,24 +1,221 @@
-![Banner](https://github.com/fredrukundo/fredrukundo/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Fred Rukundo.</h1>
-<h3 align="center">a passionate and dedicated student at <b>1337 Khouribga</b>, part of the <i>42 Network</i> Currently, I'm honing my skills and knowledge to become a well-rounded professional in the world of technology.</h3>
-<img align = "center" width = "400" src = "https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredrukundo&label=Profile%20views&color=0e75b6&style=flat" alt="fredrukundo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrukundo" alt="fredrukundo" /></a> </p>
-
-- 🌱 I’m currently dealing with **Python**
-
-- 💬 Ask me about **ReactNative, JS, C/C++**
-
-- 📫 How to reach me **dukefred9@gmail.com**
-
-<p align="left">
+<p align="center">
+<img src="mybanner.png" width="100%" alt="banner"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredrukundo&show_icons=true&locale=en&layout=compact" alt="fredrukundo" /></p>
+<h1 align="center">Hi 👋 I'm Fred Rukundo</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrukundo&show_icons=true&locale=en" alt="fredrukundo" /></p>
+<h3 align="center">
+Full Stack Software Engineer • AI Engineer • Cloud & DevOps Engineer
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrukundo&" alt="fredrukundo" /></p>
+<p align="center">
+Building intelligent products powered by Artificial Intelligence, Cloud Computing and Modern Web Technologies.
+</p>
+
+---
+
+# 🚀 About Me
+
+- 💼 Full Stack Software Engineer
+- 🤖 AI Product Builder
+- ☁️ AWS Cloud Engineer
+- 🏗 Technical Lead on AI-powered platforms
+- 🎓 1337 Khouribga (42 Network)
+- 🌍 Based in Morocco
+
+---
+
+# 🔭 What I'm Working On
+
+- AI-powered SaaS platforms
+- Large-scale backend architectures
+- Cloud-native infrastructure
+- DevOps automation
+- Machine Learning integration
+- High-performance APIs
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,bash"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python"/>
+
+</p>
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,figma"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🏡 Daba.Dar (Dar AI)
+
+AI-powered Design & Build platform that connects future property owners with architects, engineers and construction professionals through intelligent AI matching.
+
+**Tech**
+
+Next.js • Express • PostgreSQL • Prisma • AWS • AI
+
+---
+
+## 🌱 GrowNet
+
+Tree planting platform enabling organizations to manage environmental campaigns, donations, sponsors, transparency dashboards and project tracking.
+
+**Tech**
+
+React • Express • PostgreSQL • AWS S3
+
+---
+
+## ☁️ Cloud-1
+
+Designed and deployed a highly available cloud infrastructure on AWS using Infrastructure as Code and DevOps best practices.
+
+### Features
+
+- Dockerized services
+- AWS EC2
+- RDS
+- EFS
+- Application Load Balancer
+- Ansible Automation
+- Highly Available Architecture
+- Automated Deployment Pipeline
+
+---
+
+## ❤️ Matcha
+
+Modern full-stack dating platform featuring authentication, matching algorithms, messaging, geolocation, notifications and user profiles.
+
+**Tech**
+
+Next.js
+
+Express
+
+PostgreSQL
+
+Socket.io
+
+---
+
+## 🎬 Hypertube
+
+Movie streaming platform capable of downloading, transcoding and streaming movies while managing subtitles and user libraries.
+
+**Tech**
+
+Next.js
+
+Express
+
+PostgreSQL
+
+FFmpeg
+
+Streaming APIs
+
+---
+
+## 🏙 Daba.Cities
+
+Community-driven real estate ecosystem bringing together investors, developers, architects and property owners into one intelligent platform.
+
+---
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fredrukundo&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/fredrukundo/fredrukundo/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 Current Interests
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Cloud Computing
+- Distributed Systems
+- DevOps
+- Software Architecture
+- Geospatial Systems
+- Computer Vision
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+dukefred9@gmail.com
+
+💼 **LinkedIn**
+
+[Rukundo-fred](https://www.linkedin.com/in/rukundo-fred/?skipRedirect=true)
+
+
+---
+
+<p align="center">
+
+<i>"Building software that solves real-world problems through AI, cloud computing, and scalable engineering."</i>
+
+</p>
